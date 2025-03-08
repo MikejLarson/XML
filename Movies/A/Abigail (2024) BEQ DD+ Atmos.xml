@@ -802,42 +802,51 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>21.0</freq>
-    <q>0.75</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>16.0</freq>
+    <q>6.0</q>
+    <boost>2.6</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0000262176582688,-1.9998486430190447,0.9998235219009972,1.9998486430190447,-0.9998497395592661,</dec>
+    <hex>0x3f8000dc,0xbffffb0a,0x3f7ff46f,0x3ffffb0a,0xbf7ff627,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>21.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>8.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>21.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>8.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>21.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>8.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
+    <freq>21.0</freq>
+    <q>0.75</q>
+    <boost>8.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
     <freq>38.0</freq>
     <q>3.0</q>
     <boost>-1.6</boost>
@@ -845,15 +854,6 @@
     <bypass>0</bypass>
     <dec>0.9999235702016686,-1.9990852162302293,0.9991678288527163,1.9990852162302293,-0.9990913990543849,</dec>
     <hex>0x3f7ffafe,0xbfffe206,0x3f7fc976,0x3fffe206,0xbf7fc474,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,42 +892,51 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>21.0</freq>
-    <q>0.75</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>16.0</freq>
+    <q>6.0</q>
+    <boost>2.6</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0000262176582688,-1.9998486430190447,0.9998235219009972,1.9998486430190447,-0.9998497395592661,</dec>
+    <hex>0x3f8000dc,0xbffffb0a,0x3f7ff46f,0x3ffffb0a,0xbf7ff627,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>21.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>8.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>21.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>8.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>21.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>8.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000425849907934,-1.9985432849567821,0.9981204268993246,1.9985441853434565,-0.9985453764205843,</dec>
-    <hex>0x3f800df4,0xbfffd044,0x3f7f84d2,0x3fffd04c,0xbf7fa0ab,</hex>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
+    <freq>21.0</freq>
+    <q>0.75</q>
+    <boost>8.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004475510767348,-1.9985599026074958,0.9981154130958974,1.9985608514027633,-0.9985620153773642,</dec>
+    <hex>0x3f800eaa,0xbfffd0d0,0x3f7f847e,0x3fffd0d8,0xbf7fa1c3,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
     <freq>38.0</freq>
     <q>3.0</q>
     <boost>-1.6</boost>
@@ -935,15 +944,6 @@
     <bypass>0</bypass>
     <dec>0.9999235702016686,-1.9990852162302293,0.9991678288527163,1.9990852162302293,-0.9990913990543849,</dec>
     <hex>0x3f7ffafe,0xbfffe206,0x3f7fc976,0x3fffe206,0xbf7fc474,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Abigail</beq_title><beq_alt_title /><beq_sortTitle>abigail</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/fec13541145021b96853189ef4cdffd4607df457/A/Abigail%20(2024)%204K%20DD+%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/fec13541145021b96853189ef4cdffd4607df457/A/Abigail%20(2024)%204K%20DD+%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.</beq_overview><beq_rating>R</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>1111873</beq_theMovieDB><beq_poster>/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg</beq_poster><beq_runtime>109</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Abigail</beq_title><beq_alt_title /><beq_sortTitle>abigail</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/7961265c82197581eba5b62d0e6b49022815d1fc/A/Abigail%20(2024)%204K%20DD+%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/7961265c82197581eba5b62d0e6b49022815d1fc/A/Abigail%20(2024)%204K%20DD+%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.</beq_overview><beq_rating>R</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>1111873</beq_theMovieDB><beq_poster>/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg</beq_poster><beq_runtime>109</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
