@@ -804,47 +804,47 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>17.0</freq>
     <q>0.9</q>
-    <boost>5.1</boost>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003680115605946,-1.9990774333610921,0.9987106592143069,1.9990774333610921,-0.9990786707749015,</dec>
-    <hex>0x3f800c0f,0xbfffe1c5,0x3f7fab80,0x3fffe1c5,0xbf7fc39f,</hex>
+    <dec>1.0003236847402646,-1.9990450713150012,0.9987226239685142,1.9990450713150012,-0.9990463087087789,</dec>
+    <hex>0x3f800a9b,0xbfffe0b5,0x3f7fac49,0x3fffe0b5,0xbf7fc180,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>19.0</freq>
@@ -858,11 +858,11 @@
   <filter name="PEQ_1_7" addr="8310">
     <freq>30.0</freq>
     <q>1.7</q>
-    <boost>-3.6</boost>
+    <boost>-3.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9997591012798316,-1.9985762000712501,0.9988209513672285,1.9985762000712501,-0.9985800526470601,</dec>
-    <hex>0x3f7ff036,0xbfffd158,0x3f7fb2bb,0x3fffd158,0xbf7fa2f1,</hex>
+    <dec>0.999786184957633,-1.9986084995310966,0.9988261672115358,1.9986084995310966,-0.9986123521691691,</dec>
+    <hex>0x3f7ff1fd,0xbfffd267,0x3f7fb312,0x3fffd267,0xbf7fa50f,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -894,47 +894,47 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>17.0</freq>
     <q>0.9</q>
-    <boost>5.1</boost>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003680115605946,-1.9990774333610921,0.9987106592143069,1.9990774333610921,-0.9990786707749015,</dec>
-    <hex>0x3f800c0f,0xbfffe1c5,0x3f7fab80,0x3fffe1c5,0xbf7fc39f,</hex>
+    <dec>1.0003236847402646,-1.9990450713150012,0.9987226239685142,1.9990450713150012,-0.9990463087087789,</dec>
+    <hex>0x3f800a9b,0xbfffe0b5,0x3f7fac49,0x3fffe0b5,0xbf7fc180,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.7</boost>
+    <boost>7.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003315700167925,-1.9988107163993436,0.9984810737170083,1.9988112829416982,-0.9988120771914463,</dec>
-    <hex>0x3f800add,0xbfffd908,0x3f7f9c75,0x3fffd90c,0xbf7fb226,</hex>
+    <dec>1.0003097182483167,-1.9987935233502911,0.9984856777378713,1.998794050950631,-0.9987948683858483,</dec>
+    <hex>0x3f800a26,0xbfffd877,0x3f7f9cc2,0x3fffd87c,0xbf7fb105,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>19.0</freq>
@@ -948,11 +948,11 @@
   <filter name="PEQ_2_7" addr="8360">
     <freq>30.0</freq>
     <q>1.7</q>
-    <boost>-3.6</boost>
+    <boost>-3.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9997591012798316,-1.9985762000712501,0.9988209513672285,1.9985762000712501,-0.9985800526470601,</dec>
-    <hex>0x3f7ff036,0xbfffd158,0x3f7fb2bb,0x3fffd158,0xbf7fa2f1,</hex>
+    <dec>0.999786184957633,-1.9986084995310966,0.9988261672115358,1.9986084995310966,-0.9986123521691691,</dec>
+    <hex>0x3f7ff1fd,0xbfffd267,0x3f7fb312,0x3fffd267,0xbf7fa50f,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Penguin</beq_title><beq_alt_title /><beq_sortTitle>penguin</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Penguin/The%20Penguin%20S01E01-08%20(2024)%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Penguin/The%20Penguin%20S01E01-08%20(2024)%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>With the city in peril following the seawall's collapse, Oswald "Oz" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as "the Penguin."</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>194764</beq_theMovieDB><beq_poster>/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>Atmos</audioType><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>The Penguin</beq_title><beq_alt_title /><beq_sortTitle>penguin</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Penguin/The%20Penguin%20S01E01-08%20(2024)%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Penguin/The%20Penguin%20S01E01-08%20(2024)%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>With the city in peril following the seawall's collapse, Oswald "Oz" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as "the Penguin."</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>194764</beq_theMovieDB><beq_poster>/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
