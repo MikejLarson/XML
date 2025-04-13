@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>10.0</freq>
+    <q>3.0</q>
+    <boost>-4.4</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999441570496979,-1.9997185587484037,0.9997748300067487,1.9997185587484037,-0.9997189870564466,</dec>
+    <hex>0x3f7ffc57,0xbffff6c7,0x3f7ff13e,0x3ffff6c7,0xbf7fed95,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>10.0</freq>
+    <q>0.75</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
+    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>10.0</freq>
+    <q>0.75</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
+    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>15.0</freq>
+    <q>3.0</q>
+    <boost>-0.8</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999849268734572,-1.9996564230776244,0.9996724598675344,1.9996564230776244,-0.9996573867409915,</dec>
+    <hex>0x3f7fff03,0xbffff4be,0x3f7fea89,0x3ffff4be,0xbf7fe98c,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>1.0</q>
+    <boost>0.1</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000094113824665,-1.9983717936099183,0.9983650573523776,1.9983717936099183,-0.998374468734844,</dec>
+    <hex>0x3f80004f,0xbfffcaa6,0x3f7f94da,0x3fffcaa6,0xbf7f9578,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>10.0</freq>
+    <q>3.0</q>
+    <boost>-4.4</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999441570496979,-1.9997185587484037,0.9997748300067487,1.9997185587484037,-0.9997189870564466,</dec>
+    <hex>0x3f7ffc57,0xbffff6c7,0x3f7ff13e,0x3ffff6c7,0xbf7fed95,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>10.0</freq>
+    <q>0.75</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
+    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>10.0</freq>
+    <q>0.75</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
+    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>15.0</freq>
+    <q>3.0</q>
+    <boost>-0.8</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999849268734572,-1.9996564230776244,0.9996724598675344,1.9996564230776244,-0.9996573867409915,</dec>
+    <hex>0x3f7fff03,0xbffff4be,0x3f7fea89,0x3ffff4be,0xbf7fe98c,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>1.0</q>
+    <boost>0.1</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000094113824665,-1.9983717936099183,0.9983650573523776,1.9983717936099183,-0.998374468734844,</dec>
+    <hex>0x3f80004f,0xbfffcaa6,0x3f7f94da,0x3fffcaa6,0xbf7f9578,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Children of the Corn</beq_title><beq_alt_title /><beq_sortTitle>children of the corn</beq_sortTitle><beq_year>2020</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Children%20of%20the%20Corn/Children%20of%20the%20Corn%20(2023)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Children%20of%20the%20Corn/Children%20of%20the%20Corn%20(2023)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>As received - No filters needed</beq_note><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A psychopathic twelve-year-old girl in a small town in Nebraska recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won't go along with the plan is the town's only hope of survival.</beq_overview><beq_rating /><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>701121</beq_theMovieDB><beq_poster>/ooZbBL28oXDHfc8xSt2VRHU8jkO.jpg</beq_poster><beq_runtime>93</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Children of the Corn</beq_title><beq_alt_title /><beq_sortTitle>children of the corn</beq_sortTitle><beq_year>2020</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Children%20of%20the%20Corn/Children%20of%20the%20Corn%20(2023)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Children%20of%20the%20Corn/Children%20of%20the%20Corn%20(2023)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A psychopathic twelve-year-old girl in a small town in Nebraska recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won't go along with the plan is the town's only hope of survival.</beq_overview><beq_rating /><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>701121</beq_theMovieDB><beq_poster>/ooZbBL28oXDHfc8xSt2VRHU8jkO.jpg</beq_poster><beq_runtime>93</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
