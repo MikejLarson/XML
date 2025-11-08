@@ -821,12 +821,12 @@
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>20.0</freq>
-    <q>2.8</q>
+    <q>3.0</q>
     <boost>-1.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999541893863922,-1.9994828583399389,0.9995303819847018,1.9994828583399389,-0.9994845713710939,</dec>
-    <hex>0x3f7ffcff,0xbfffef0e,0x3f7fe139,0x3fffef0e,0xbf7fde39,</hex>
+    <dec>0.9999572426926879,-1.999517211953773,0.9995616823216723,1.999517211953773,-0.9995189250143602,</dec>
+    <hex>0x3f7ffd33,0xbffff02e,0x3f7fe346,0x3ffff02e,0xbf7fe079,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -911,12 +911,12 @@
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>20.0</freq>
-    <q>2.8</q>
+    <q>3.0</q>
     <boost>-1.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999541893863922,-1.9994828583399389,0.9995303819847018,1.9994828583399389,-0.9994845713710939,</dec>
-    <hex>0x3f7ffcff,0xbfffef0e,0x3f7fe139,0x3fffef0e,0xbf7fde39,</hex>
+    <dec>0.9999572426926879,-1.999517211953773,0.9995616823216723,1.999517211953773,-0.9995189250143602,</dec>
+    <hex>0x3f7ffd33,0xbffff02e,0x3f7fe346,0x3ffff02e,0xbf7fe079,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Prisoner of War</beq_title><beq_alt_title /><beq_sortTitle>prisoner of war</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Prisoner%20Of%20War/Prisoner%20Of%20War%20(2025)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Prisoner%20Of%20War/Prisoner%20Of%20War%20(2025)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.</beq_overview><beq_rating>NR</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>1328803</beq_theMovieDB><beq_poster>/94RmnViWjlmFhsZOPHPZgUqsqNg.jpg</beq_poster><beq_runtime>0</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ 5.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="10752">War</genre><genre id="53">Thriller</genre><genre id="36">History</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Prisoner of War</beq_title><beq_alt_title /><beq_sortTitle>prisoner of war</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Prisoner%20Of%20War/Prisoner%20of%20War%20(2025)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Prisoner%20Of%20War/Prisoner%20of%20War%20(2025)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.</beq_overview><beq_rating>NR</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>1328803</beq_theMovieDB><beq_poster>/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg</beq_poster><beq_runtime>113</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="10752">War</genre><genre id="53">Thriller</genre><genre id="36">History</genre></beq_genres></beq_metadata></setting>
