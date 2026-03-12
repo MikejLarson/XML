@@ -839,12 +839,12 @@
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>90.0</freq>
-    <q>1.0</q>
+    <q>2.2</q>
     <boost>0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000067620955594,-1.9941592828797094,0.9941262589221723,1.9941592828797094,-0.9941938798777665,</dec>
-    <hex>0x3f800237,0xbfff409d,0x3f7e7f0f,0x3fff409d,0xbf7e837d,</hex>
+    <dec>1.0000307855465194,-1.9973220169396548,0.9973258832619869,1.9973220169396548,-0.9973566688085064,</dec>
+    <hex>0x3f800102,0xbfffa83f,0x3f7f50c0,0x3fffa83f,0xbf7f52c4,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -929,12 +929,12 @@
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>90.0</freq>
-    <q>1.0</q>
+    <q>2.2</q>
     <boost>0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000067620955594,-1.9941592828797094,0.9941262589221723,1.9941592828797094,-0.9941938798777665,</dec>
-    <hex>0x3f800237,0xbfff409d,0x3f7e7f0f,0x3fff409d,0xbf7e837d,</hex>
+    <dec>1.0000307855465194,-1.9973220169396548,0.9973258832619869,1.9973220169396548,-0.9973566688085064,</dec>
+    <hex>0x3f800102,0xbfffa83f,0x3f7f50c0,0x3fffa83f,0xbf7f52c4,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,34 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>ONE PIECE</beq_title><beq_alt_title /><beq_sortTitle>one piece</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/One%20Piece/One%20Piece%20S01E01-08%20(2023)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/One%20Piece/One%20Piece%20S01E01-08%20(2023)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Netflix</beq_source><beq_overview>With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>111110</beq_theMovieDB><beq_poster>/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+  <beq_metadata>
+    <beq_title>ONE PIECE</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>one piece</beq_sortTitle>
+    <beq_year>2023</beq_year>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/One%20Piece/One%20Piece%20S02E01-08%20(2023)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/One%20Piece/One%20Piece%20S02E01-08%20(2023)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season>02</beq_season>
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>English</beq_language>
+    <beq_source>Netflix</beq_source>
+    <beq_overview>With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.</beq_overview>
+    <beq_rating>TV-14</beq_rating>
+    <beq_author>Mikejl</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>111110</beq_theMovieDB>
+    <beq_poster>/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg</beq_poster>
+    <beq_runtime />
+    <beq_collection />
+    <beq_audioTypes>
+      <audioType>DD+ Atmos</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="10759">Action &amp; Adventure</genre>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
+    </beq_genres>
+  </beq_metadata>
+</setting>
