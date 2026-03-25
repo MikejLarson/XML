@@ -1414,4 +1414,38 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Kung Fu Panda 3</beq_title><beq_alt_title /><beq_sortTitle>kung fu panda 3</beq_sortTitle><beq_year>2016</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Kung%20Fu%20Panda/Kung%20Fu%20Panda%203%20(2016)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Kung%20Fu%20Panda/Kung%20Fu%20Panda%203%20(2016)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.</beq_overview><beq_rating>PG</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>140300</beq_theMovieDB><beq_poster>/oajNi4Su39WAByHI6EONu8G8HYn.jpg</beq_poster><beq_runtime>95</beq_runtime><beq_collection id="77816">Kung Fu Panda Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="28">Action</genre><genre id="12">Adventure</genre><genre id="35">Comedy</genre><genre id="10751">Family</genre></beq_genres></beq_metadata></setting>
+  <beq_metadata>
+    <beq_title>Kung Fu Panda 3</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>kung fu panda 3</beq_sortTitle>
+    <beq_year>2016</beq_year>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Kung%20Fu%20Panda/Kung%20Fu%20Panda%202%20(2011)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Kung%20Fu%20Panda/Kung%20Fu%20Panda%203%20(2016)%20Atmos.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season />
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.</beq_overview>
+    <beq_rating>PG</beq_rating>
+    <beq_author />
+    <beq_avs />
+    <beq_theMovieDB>140300</beq_theMovieDB>
+    <beq_poster>/oajNi4Su39WAByHI6EONu8G8HYn.jpg</beq_poster>
+    <beq_runtime>95</beq_runtime>
+    <beq_collection id="77816">Kung Fu Panda Collection</beq_collection>
+    <beq_audioTypes>
+      <audioType>Atmos</audioType>
+      <audioType>DD+ Atmos</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="16">Animation</genre>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="10751">Family</genre>
+    </beq_genres>
+  </beq_metadata>
+</setting>
