@@ -804,29 +804,29 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
-    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
-    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
-    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>27.0</freq>
@@ -840,11 +840,11 @@
   <filter name="PEQ_1_5" addr="8300">
     <freq>33.0</freq>
     <q>2.2</q>
-    <boost>-7.3</boost>
+    <boost>-6.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9995755162704691,-1.9985019419879175,0.9989310871625463,1.9985019419879175,-0.9985066034330154,</dec>
-    <hex>0x3f7fe42e,0xbfffcee9,0x3f7fb9f3,0x3fffcee9,0xbf7f9e21,</hex>
+    <dec>0.9996242961070553,-1.9985691078175079,0.9989494733122125,1.9985691078175079,-0.9985737694192677,</dec>
+    <hex>0x3f7fe761,0xbfffd11d,0x3f7fbb27,0x3fffd11d,0xbf7fa288,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>90.0</freq>
@@ -894,29 +894,29 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
-    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
-    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
-    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>27.0</freq>
@@ -930,11 +930,11 @@
   <filter name="PEQ_2_5" addr="8350">
     <freq>33.0</freq>
     <q>2.2</q>
-    <boost>-7.3</boost>
+    <boost>-6.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9995755162704691,-1.9985019419879175,0.9989310871625463,1.9985019419879175,-0.9985066034330154,</dec>
-    <hex>0x3f7fe42e,0xbfffcee9,0x3f7fb9f3,0x3fffcee9,0xbf7f9e21,</hex>
+    <dec>0.9996242961070553,-1.9985691078175079,0.9989494733122125,1.9985691078175079,-0.9985737694192677,</dec>
+    <hex>0x3f7fe761,0xbfffd11d,0x3f7fbb27,0x3fffd11d,0xbf7fa288,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>90.0</freq>
@@ -1414,4 +1414,34 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Die My Love</beq_title><beq_alt_title /><beq_sortTitle>die my love</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Die%20My%20Love/Die%20My%20Love%20(2025)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Die%20My%20Love/Die%20My%20Love%20(2025)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, with Jackson frequently absent, and the pressures of domestic life weighing on her, Grace begins to unravel, leaving a path of destruction in her wake.</beq_overview><beq_rating>R</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>1033148</beq_theMovieDB><beq_poster>/kajpShbFhOdpl6yCrLezMrr9tB4.jpg</beq_poster><beq_runtime>119</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
+  <beq_metadata>
+    <beq_title>Die My Love</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>die my love</beq_sortTitle>
+    <beq_year>2025</beq_year>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Die%20My%20Love/Die%20My%20Love%20(2025)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Die%20My%20Love/Die%20My%20Love%20(2025)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season />
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.</beq_overview>
+    <beq_rating>R</beq_rating>
+    <beq_author>Mikejll</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>1033148</beq_theMovieDB>
+    <beq_poster>/kajpShbFhOdpl6yCrLezMrr9tB4.jpg</beq_poster>
+    <beq_runtime>119</beq_runtime>
+    <beq_collection />
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="18">Drama</genre>
+    </beq_genres>
+  </beq_metadata>
+</setting>
