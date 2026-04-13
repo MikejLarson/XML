@@ -1437,6 +1437,7 @@
     <beq_runtime>113</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
