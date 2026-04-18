@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>7.5</boost>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000189874858758,-1.999296548481444,0.9991073330464498,1.999296739154978,-0.9992970172316736,</dec>
-    <hex>0x3f800639,0xbfffe8f3,0x3f7fc580,0x3fffe8f5,0xbf7fd1ee,</hex>
+    <dec>1.0001642391331267,-1.9992760386527828,0.9991124220494404,1.9992762026422997,-0.9992764971930507,</dec>
+    <hex>0x3f800562,0xbfffe847,0x3f7fc5d5,0x3fffe848,0xbf7fd096,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>30.0</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>7.5</boost>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000189874858758,-1.999296548481444,0.9991073330464498,1.999296739154978,-0.9992970172316736,</dec>
-    <hex>0x3f800639,0xbfffe8f3,0x3f7fc580,0x3fffe8f5,0xbf7fd1ee,</hex>
+    <dec>1.0001642391331267,-1.9992760386527828,0.9991124220494404,1.9992762026422997,-0.9992764971930507,</dec>
+    <hex>0x3f800562,0xbfffe847,0x3f7fc5d5,0x3fffe848,0xbf7fd096,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>30.0</freq>
@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>28 years later: the bone temple</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/28%20Years%20Later%20-%20The%20Bone%20Temple/28%20Years%20Later%20-%20The%20Bone%20Temple%20(2026)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/28%20Years%20Later%20-%20The%20Bone%20Temple/28%20Years%20Later%20-%20The%20Bone%20Temple%20(2026)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/28%20Years%20Later%20-%20The%20Bone%20Temple/28%20Years%20Later%20-%20The%20Bone%20Temple%20(2026)%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/28%20Years%20Later%20-%20The%20Bone%20Temple/28%20Years%20Later%20-%20The%20Bone%20Temple%20(2026)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1437,6 +1437,7 @@
     <beq_runtime>109</beq_runtime>
     <beq_collection id="1565">28 Days/Weeks/Years Later Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
