@@ -1419,15 +1419,15 @@
     <beq_alt_title />
     <beq_sortTitle>ready or not</beq_sortTitle>
     <beq_year>2019</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%202%20-%20Here%20I%20Come%20(2026)%20DD%2B%205.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%20(2019)%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%20(2019)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%20(2019)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Hulu</beq_source>
+    <beq_source>Disc</beq_source>
     <beq_overview>A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>Mikejl</beq_author>
@@ -1437,6 +1437,7 @@
     <beq_runtime>96</beq_runtime>
     <beq_collection id="1267164">Ready or Not Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
       <audioType>DD+</audioType>
     </beq_audioTypes>
     <beq_genres>
