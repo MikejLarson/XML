@@ -1437,7 +1437,7 @@
     <beq_runtime>107</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>TrueHD 5.1</audioType><audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
