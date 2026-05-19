@@ -829,13 +829,13 @@
     <hex>0x3f800c72,0xbfffd1e2,0x3f7f8b0d,0x3fffd1e9,0xbf7fa3e4,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>35.0</freq>
+    <freq>33.0</freq>
     <q>2.6</q>
-    <boost>-1.4</boost>
+    <boost>-1.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999289524071294,-1.9990402117126747,0.9991165043097837,1.9990402117126747,-0.9990454567169134,</dec>
-    <hex>0x3f7ffb58,0xbfffe08d,0x3f7fc619,0x3fffe08d,0xbf7fc171,</hex>
+    <dec>0.9999138105909786,-1.9990743600684031,0.9991652122576702,1.9990743600684031,-0.9990790228486486,</dec>
+    <hex>0x3f7ffa5a,0xbfffe1ab,0x3f7fc94b,0x3fffe1ab,0xbf7fc3a5,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>100.0</freq>
@@ -919,13 +919,13 @@
     <hex>0x3f800c72,0xbfffd1e2,0x3f7f8b0d,0x3fffd1e9,0xbf7fa3e4,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>35.0</freq>
+    <freq>33.0</freq>
     <q>2.6</q>
-    <boost>-1.4</boost>
+    <boost>-1.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999289524071294,-1.9990402117126747,0.9991165043097837,1.9990402117126747,-0.9990454567169134,</dec>
-    <hex>0x3f7ffb58,0xbfffe08d,0x3f7fc619,0x3fffe08d,0xbf7fc171,</hex>
+    <dec>0.9999138105909786,-1.9990743600684031,0.9991652122576702,1.9990743600684031,-0.9990790228486486,</dec>
+    <hex>0x3f7ffa5a,0xbfffe1ab,0x3f7fc94b,0x3fffe1ab,0xbf7fc3a5,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>100.0</freq>
@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>bride!</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Bride/The%20Bride%20(2026)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Bride/The%20Bride%20(2026)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Bride/The%20Bride%20(2026)%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Bride/The%20Bride%20(2026)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1430,13 +1430,14 @@
     <beq_source>Disc</beq_source>
     <beq_overview>A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.</beq_overview>
     <beq_rating>R</beq_rating>
-    <beq_author>Mikejl</beq_author>
+    <beq_author />
     <beq_avs />
     <beq_theMovieDB>1159831</beq_theMovieDB>
     <beq_poster>/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg</beq_poster>
-    <beq_runtime>126</beq_runtime>
+    <beq_runtime>127</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
