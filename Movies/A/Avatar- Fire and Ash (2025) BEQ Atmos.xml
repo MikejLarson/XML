@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>avatar: fire and ash</beq_sortTitle>
     <beq_year>2025</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avatar/Avatar%20-%20Fire%20and%20Ash%20(2025)%20DD%2B%205.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avatar/Avatar%20-%20Fire%20and%20Ash%20(2025)%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avatar/Avatar%20Fire%20and%20Ash%202025%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avatar/Avatar%20Fire%20and%20Ash%202025%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1433,10 +1433,12 @@
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>83533</beq_theMovieDB>
-    <beq_poster>/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg</beq_poster>
+    <beq_poster>/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg</beq_poster>
     <beq_runtime>198</beq_runtime>
     <beq_collection id="87096">Avatar Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
+      <audioType>DD+ Atmos</audioType>
       <audioType>DD+</audioType>
     </beq_audioTypes>
     <beq_genres>
