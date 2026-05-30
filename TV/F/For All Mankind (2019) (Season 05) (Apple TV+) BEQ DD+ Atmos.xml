@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>23.0</freq>
     <q>8.0</q>
-    <boost>1.7</boost>
+    <boost>-1.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000018441950097,-1.9998271222448163,0.9998109461690069,1.9998271222448163,-0.9998293881191037,</dec>
-    <hex>0x3f80009b,0xbffffa56,0x3f7ff39c,0x3ffffa56,0xbf7ff4d2,</hex>
+    <dec>0.9999815583900022,-1.999790242212965,0.9998109496554637,1.999790242212965,-0.9997925080454662,</dec>
+    <hex>0x3f7ffecb,0xbffff920,0x3f7ff39c,0x3ffff920,0xbf7ff267,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>25.0</freq>
@@ -831,11 +831,11 @@
   <filter name="PEQ_1_4" addr="8295">
     <freq>90.0</freq>
     <q>1.0</q>
-    <boost>0.2</boost>
+    <boost>0.1</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000067620955594,-1.9941592828797094,0.9941262589221723,1.9941592828797094,-0.9941938798777665,</dec>
-    <hex>0x3f800237,0xbfff409d,0x3f7e7f0f,0x3fff409d,0xbf7e837d,</hex>
+    <dec>1.000033809350989,-1.994125862230346,0.9941266492975938,1.994125862230346,-0.9941604586485825,</dec>
+    <hex>0x3f80011c,0xbfff3f84,0x3f7e7f16,0x3fff3f84,0xbf7e814d,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>23.0</freq>
     <q>8.0</q>
-    <boost>1.7</boost>
+    <boost>-1.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000018441950097,-1.9998271222448163,0.9998109461690069,1.9998271222448163,-0.9998293881191037,</dec>
-    <hex>0x3f80009b,0xbffffa56,0x3f7ff39c,0x3ffffa56,0xbf7ff4d2,</hex>
+    <dec>0.9999815583900022,-1.999790242212965,0.9998109496554637,1.999790242212965,-0.9997925080454662,</dec>
+    <hex>0x3f7ffecb,0xbffff920,0x3f7ff39c,0x3ffff920,0xbf7ff267,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>25.0</freq>
@@ -921,11 +921,11 @@
   <filter name="PEQ_2_4" addr="8345">
     <freq>90.0</freq>
     <q>1.0</q>
-    <boost>0.2</boost>
+    <boost>0.1</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000067620955594,-1.9941592828797094,0.9941262589221723,1.9941592828797094,-0.9941938798777665,</dec>
-    <hex>0x3f800237,0xbfff409d,0x3f7e7f0f,0x3fff409d,0xbf7e837d,</hex>
+    <dec>1.000033809350989,-1.994125862230346,0.9941266492975938,1.994125862230346,-0.9941604586485825,</dec>
+    <hex>0x3f80011c,0xbfff3f84,0x3f7e7f16,0x3fff3f84,0xbf7e814d,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1419,10 +1419,10 @@
     <beq_alt_title />
     <beq_sortTitle>for all mankind</beq_sortTitle>
     <beq_year>2019</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/For%20All%20Mankind/For%20All%20Mankind%20S05E01-09%20(2019)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/For%20All%20Mankind/For%20All%20Mankind%20S05E01-09%20(2019)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/For%20All%20Mankind/For%20All%20Mankind%20S05E01-10%20(2019)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/For%20All%20Mankind/For%20All%20Mankind%20S05E01-10%20(2019)%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>05E01-09</beq_season>
+    <beq_season>05</beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
