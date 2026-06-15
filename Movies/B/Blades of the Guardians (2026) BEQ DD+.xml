@@ -1437,7 +1437,7 @@
     <beq_runtime>126</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
-      <audioType>DD+</audioType>
+      <audioType>DD+ 7.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
