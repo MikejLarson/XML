@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>pressure</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pressure/Pressure%20(2026)%20DD%2B%205.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pressure/Pressure%20(2026)%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pressure/Pressure%20(2026)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pressure/Pressure%20(2026)%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1433,10 +1433,11 @@
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>1318413</beq_theMovieDB>
-    <beq_poster>/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg</beq_poster>
-    <beq_runtime>100</beq_runtime>
+    <beq_poster>/gFjEggtrejCN79r6SXRjM269OtG.jpg</beq_poster>
+    <beq_runtime>101</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>DD+ Atmos</audioType>
       <audioType>DD+</audioType>
     </beq_audioTypes>
     <beq_genres>
