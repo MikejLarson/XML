@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>crime 101</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1437,6 +1437,7 @@
     <beq_runtime>141</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
