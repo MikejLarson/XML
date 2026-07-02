@@ -858,11 +858,11 @@
   <filter name="PEQ_1_7" addr="8310">
     <freq>60.0</freq>
     <q>2.0</q>
-    <boost>0.4</boost>
+    <boost>0.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000451716939236,-1.9980676368035568,0.99803787156577,1.9980676368035568,-0.9980830432596935,</dec>
-    <hex>0x3f80017b,0xbfffc0ae,0x3f7f7f69,0x3fffc0ae,0xbf7f825f,</hex>
+    <dec>1.000033877273307,-1.9980565808451534,0.9980381099427342,1.9980565808451534,-0.9980719872160412,</dec>
+    <hex>0x3f80011c,0xbfffc051,0x3f7f7f6d,0x3fffc051,0xbf7f81a5,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>90.0</freq>
@@ -948,11 +948,11 @@
   <filter name="PEQ_2_7" addr="8360">
     <freq>60.0</freq>
     <q>2.0</q>
-    <boost>0.4</boost>
+    <boost>0.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000451716939236,-1.9980676368035568,0.99803787156577,1.9980676368035568,-0.9980830432596935,</dec>
-    <hex>0x3f80017b,0xbfffc0ae,0x3f7f7f69,0x3fffc0ae,0xbf7f825f,</hex>
+    <dec>1.000033877273307,-1.9980565808451534,0.9980381099427342,1.9980565808451534,-0.9980719872160412,</dec>
+    <hex>0x3f80011c,0xbfffc051,0x3f7f7f6d,0x3fffc051,0xbf7f81a5,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>90.0</freq>
@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>nuremberg</beq_sortTitle>
     <beq_year>2025</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nuremberg/Nuremberg%20(2025)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nuremberg/Nuremberg%20(2025)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nuremberg/Nuremberg%20(2025)%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nuremberg/Nuremberg%20(2025)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1430,13 +1430,14 @@
     <beq_source>Disc</beq_source>
     <beq_overview>In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.</beq_overview>
     <beq_rating>PG-13</beq_rating>
-    <beq_author />
+    <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>1214931</beq_theMovieDB>
-    <beq_poster>/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg</beq_poster>
+    <beq_poster>/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg</beq_poster>
     <beq_runtime>149</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
