@@ -1419,30 +1419,30 @@
     <beq_alt_title>镖人：风起大漠</beq_alt_title>
     <beq_sortTitle>blades of the guardians</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blades%20of%20the%20Guardians/Blades%20of%20the%20Guardians%20-%20Wind%20Rises%20in%20the%20Desert%20(2026)%20(ma)%20DD%2B%207.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blades%20of%20the%20Guardians/Blades%20of%20the%20Guardians%20-%20Wind%20Rises%20in%20the%20Desert%20(2026)%20(ma)%20DD%2B%207.1.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blades%20of%20the%20Guardians/Blades%20of%20the%20Guardians%20(2026)%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blades%20of%20the%20Guardians/Blades%20of%20the%20Guardians%20(2026)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>Dao Ma, the "second most wanted fugitive," is entrusted by his benefactor, the chief of Mo family clan, to take on a mysterious escort mission-escorting the "most wanted fugitive" to Chang'an.</beq_overview>
     <beq_rating />
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>1305781</beq_theMovieDB>
-    <beq_poster>/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg</beq_poster>
+    <beq_poster>/4QZwryGm8l7N5XdEjPchNPl0BV7.jpg</beq_poster>
     <beq_runtime>126</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+ 7.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
-      <genre id="18">Drama</genre>
-      <genre id="36">History</genre>
+      <genre id="12">Adventure</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
