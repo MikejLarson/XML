@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>obsession</beq_sortTitle>
     <beq_year>2025</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Obsession/Obsession%20(2025)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Obsession/Obsession%20(2025)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Obsession/Obsession%20(2025)%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Obsession/Obsession%20(2025)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1433,10 +1433,11 @@
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>1339713</beq_theMovieDB>
-    <beq_poster>/doQPOCVlIWZBRC2ZVsSXHi0luL8.jpg</beq_poster>
-    <beq_runtime>108</beq_runtime>
-    <beq_collection id="1704738">Obsession Collection</beq_collection>
+    <beq_poster>/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg</beq_poster>
+    <beq_runtime>109</beq_runtime>
+    <beq_collection />
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
