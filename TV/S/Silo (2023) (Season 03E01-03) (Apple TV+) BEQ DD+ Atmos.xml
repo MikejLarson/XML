@@ -813,38 +813,38 @@
   <filter name="PEQ_1_2" addr="8285">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
+    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
+    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
+    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>32.0</freq>
+    <freq>31.0</freq>
     <q>2.2</q>
-    <boost>-5.3</boost>
+    <boost>-5.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9997052162911081,-1.9987048274076298,0.9990039947747472,1.9987048274076298,-0.9987092110658552,</dec>
-    <hex>0x3f7fecae,0xbfffd58f,0x3f7fbeba,0x3fffd58f,0xbf7fab68,</hex>
+    <dec>0.9996921316878131,-1.9987163002428898,0.9990282825387314,1.9987163002428898,-0.9987204142265445,</dec>
+    <hex>0x3f7febd3,0xbfffd5f0,0x3f7fc051,0x3fffd5f0,0xbf7fac24,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>100.0</freq>
@@ -903,38 +903,38 @@
   <filter name="PEQ_2_2" addr="8335">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
+    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
+    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
+    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>32.0</freq>
+    <freq>31.0</freq>
     <q>2.2</q>
-    <boost>-5.3</boost>
+    <boost>-5.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9997052162911081,-1.9987048274076298,0.9990039947747472,1.9987048274076298,-0.9987092110658552,</dec>
-    <hex>0x3f7fecae,0xbfffd58f,0x3f7fbeba,0x3fffd58f,0xbf7fab68,</hex>
+    <dec>0.9996921316878131,-1.9987163002428898,0.9990282825387314,1.9987163002428898,-0.9987204142265445,</dec>
+    <hex>0x3f7febd3,0xbfffd5f0,0x3f7fc051,0x3fffd5f0,0xbf7fac24,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>100.0</freq>
@@ -1419,15 +1419,15 @@
     <beq_alt_title />
     <beq_sortTitle>silo</beq_sortTitle>
     <beq_year>2023</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-02%20(2023)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-02%20(2023)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-03%20(2023)%204K%20HDR%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-03%20(2023)%204K%20HDR%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>03E01-02</beq_season>
+    <beq_season>03E01-03</beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
+    <beq_source>Apple TV+</beq_source>
     <beq_overview>In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.</beq_overview>
     <beq_rating>TV-MA</beq_rating>
     <beq_author>Mikejl</beq_author>
