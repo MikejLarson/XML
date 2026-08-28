@@ -813,38 +813,38 @@
   <filter name="PEQ_1_2" addr="8285">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
-    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
+    <dec>1.0004619417615446,-1.9982304232930446,0.9977725535851895,1.9982315807354647,-0.9982333379043141,</dec>
+    <hex>0x3f800f23,0xbfffc604,0x3f7f6e06,0x3fffc60d,0xbf7f8c38,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
-    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
+    <dec>1.0004619417615446,-1.9982304232930446,0.9977725535851895,1.9982315807354647,-0.9982333379043141,</dec>
+    <hex>0x3f800f23,0xbfffc604,0x3f7f6e06,0x3fffc60d,0xbf7f8c38,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
-    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
+    <dec>1.0004619417615446,-1.9982304232930446,0.9977725535851895,1.9982315807354647,-0.9982333379043141,</dec>
+    <hex>0x3f800f23,0xbfffc604,0x3f7f6e06,0x3fffc60d,0xbf7f8c38,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>31.0</freq>
     <q>2.2</q>
-    <boost>-5.9</boost>
+    <boost>-5.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9996809260900035,-1.9987014929578821,0.9990246808210553,1.9987014929578821,-0.9987056069110588,</dec>
-    <hex>0x3f7feb17,0xbfffd573,0x3f7fc015,0x3fffd573,0xbf7fab2c,</hex>
+    <dec>0.9997032966689042,-1.9987309382459544,0.9990317555908345,1.9987309382459544,-0.9987350522597387,</dec>
+    <hex>0x3f7fec8e,0xbfffd66a,0x3f7fc08c,0x3fffd66a,0xbf7fad1a,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>80.0</freq>
@@ -903,38 +903,38 @@
   <filter name="PEQ_2_2" addr="8335">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
-    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
+    <dec>1.0004619417615446,-1.9982304232930446,0.9977725535851895,1.9982315807354647,-0.9982333379043141,</dec>
+    <hex>0x3f800f23,0xbfffc604,0x3f7f6e06,0x3fffc60d,0xbf7f8c38,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
-    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
+    <dec>1.0004619417615446,-1.9982304232930446,0.9977725535851895,1.9982315807354647,-0.9982333379043141,</dec>
+    <hex>0x3f800f23,0xbfffc604,0x3f7f6e06,0x3fffc60d,0xbf7f8c38,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000494102936131,-1.998255608972413,0.9977656970490337,1.9982568508108194,-0.9982585581467586,</dec>
-    <hex>0x3f801031,0xbfffc6d7,0x3f7f6d93,0x3fffc6e1,0xbf7f8ddf,</hex>
+    <dec>1.0004619417615446,-1.9982304232930446,0.9977725535851895,1.9982315807354647,-0.9982333379043141,</dec>
+    <hex>0x3f800f23,0xbfffc604,0x3f7f6e06,0x3fffc60d,0xbf7f8c38,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>31.0</freq>
     <q>2.2</q>
-    <boost>-5.9</boost>
+    <boost>-5.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9996809260900035,-1.9987014929578821,0.9990246808210553,1.9987014929578821,-0.9987056069110588,</dec>
-    <hex>0x3f7feb17,0xbfffd573,0x3f7fc015,0x3fffd573,0xbf7fab2c,</hex>
+    <dec>0.9997032966689042,-1.9987309382459544,0.9990317555908345,1.9987309382459544,-0.9987350522597387,</dec>
+    <hex>0x3f7fec8e,0xbfffd66a,0x3f7fc08c,0x3fffd66a,0xbf7fad1a,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>80.0</freq>
@@ -1419,10 +1419,10 @@
     <beq_alt_title />
     <beq_sortTitle>silo</beq_sortTitle>
     <beq_year>2023</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-08%20(2023)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-08%20(2023)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-09%20(2023)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silo/Silo%20S03E01-09%20(2023)%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>03E01-08</beq_season>
+    <beq_season>03</beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
