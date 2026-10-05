@@ -1419,14 +1419,14 @@
     <beq_alt_title>군체</beq_alt_title>
     <beq_sortTitle>colony</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colony/Colony%20(2026)%20(ko)%20DD%2B%205.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colony/Colony%20(2026)%20(ko)%20DD%2B%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colony/Colony%20(2026)%20(ko)%204K%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colony/Colony%20(2026)%20(ko)%204K%20Atmos.jpg</beq_pvaURL>
+    <beq_edition>UHD</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.</beq_overview>
     <beq_rating>R</beq_rating>
@@ -1437,6 +1437,7 @@
     <beq_runtime>123</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+</audioType>
     </beq_audioTypes>
     <beq_genres>
