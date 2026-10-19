@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>over your dead body</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1429,14 +1429,15 @@
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>A dysfunctional couple head to a remote cabin to "reconnect", but each has secret intentions to kill the other.</beq_overview>
-    <beq_rating />
+    <beq_rating>R</beq_rating>
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>1390300</beq_theMovieDB>
-    <beq_poster>/l5iroeWTrP9tspGYQonagH7Tcds.jpg</beq_poster>
-    <beq_runtime>106</beq_runtime>
+    <beq_poster>/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg</beq_poster>
+    <beq_runtime>105</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
