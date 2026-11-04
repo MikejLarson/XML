@@ -1414,4 +1414,34 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Scream 4</beq_title><beq_alt_title>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%204%20(2011)%20DTS-HD%20MA%205.1hm.jpg</beq_alt_title><beq_sortTitle>scream 4</beq_sortTitle><beq_year>2011</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%204%20(2011)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Ten years have passed, and Sidney Prescott has put herself back together thanks to her writing. However, her return to Woodsboro sparks the return of the Ghostface Killer.</beq_overview><beq_rating>R</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>41446</beq_theMovieDB><beq_poster>/tcrI37K98TVopLbcZBa55mWhLT1.jpg</beq_poster><beq_runtime>111</beq_runtime><beq_collection id="2602">Scream Collection</beq_collection><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="9648">Mystery</genre></beq_genres></beq_metadata></setting>
+  <beq_metadata>
+    <beq_title>Scream 4</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>scream 4</beq_sortTitle>
+    <beq_year>2011</beq_year>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%204%20(2011)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%204%20(2011)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season />
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Fifteen years after the original Woodsboro murders, Sidney Prescott returns home to promote her new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.</beq_overview>
+    <beq_rating>R</beq_rating>
+    <beq_author>Mikejl</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>41446</beq_theMovieDB>
+    <beq_poster>/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg</beq_poster>
+    <beq_runtime>111</beq_runtime>
+    <beq_collection id="2602">Scream Collection</beq_collection>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="27">Horror</genre>
+      <genre id="9648">Mystery</genre>
+    </beq_genres>
+  </beq_metadata>
+</setting>
