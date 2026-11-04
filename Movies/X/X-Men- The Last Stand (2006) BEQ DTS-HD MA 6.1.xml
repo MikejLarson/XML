@@ -804,20 +804,20 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
+    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>32.0</freq>
+    <freq>34.0</freq>
     <q>2.2</q>
     <boost>-1.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999012330982882,-1.9989402418436715,0.9990433929199314,1.9989402418436715,-0.9989446260182195,</dec>
-    <hex>0x3f7ff987,0xbfffdd46,0x3f7fc14f,0x3fffdd46,0xbf7fbad6,</hex>
+    <dec>0.9998950636376625,-1.9988737530722749,0.9989836385932027,1.9988737530722749,-0.9988787022308651,</dec>
+    <hex>0x3f7ff91f,0xbfffdb18,0x3f7fbd64,0x3fffdb18,0xbf7fb684,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>90.0</freq>
@@ -894,20 +894,20 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
-    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
+    <dec>1.0005717245339598,-1.9983145866329366,0.9977473529829284,1.9983160353620346,-0.9983176287877903,</dec>
+    <hex>0x3f8012bc,0xbfffc8c6,0x3f7f6c5f,0x3fffc8d2,0xbf7f91be,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>32.0</freq>
+    <freq>34.0</freq>
     <q>2.2</q>
     <boost>-1.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999012330982882,-1.9989402418436715,0.9990433929199314,1.9989402418436715,-0.9989446260182195,</dec>
-    <hex>0x3f7ff987,0xbfffdd46,0x3f7fc14f,0x3fffdd46,0xbf7fbad6,</hex>
+    <dec>0.9998950636376625,-1.9988737530722749,0.9989836385932027,1.9988737530722749,-0.9988787022308651,</dec>
+    <hex>0x3f7ff91f,0xbfffdb18,0x3f7fbd64,0x3fffdb18,0xbf7fb684,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>90.0</freq>
@@ -1438,6 +1438,7 @@
     <beq_collection id="748">X-Men Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 6.1</audioType>
+      <audioType>DD+</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="12">Adventure</genre>
