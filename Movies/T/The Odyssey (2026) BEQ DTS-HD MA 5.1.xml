@@ -1433,11 +1433,12 @@
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>1368337</beq_theMovieDB>
-    <beq_poster>/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg</beq_poster>
+    <beq_poster>/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg</beq_poster>
     <beq_runtime>173</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="12">Adventure</genre>
