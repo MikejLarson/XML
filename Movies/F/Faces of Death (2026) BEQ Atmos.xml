@@ -1419,8 +1419,8 @@
     <beq_alt_title />
     <beq_sortTitle>faces of death</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20Atmoshm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1433,10 +1433,11 @@
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>855435</beq_theMovieDB>
-    <beq_poster>/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg</beq_poster>
+    <beq_poster>/jdbFKRF9pWUY7aFUk19ys4zHoBV.jpg</beq_poster>
     <beq_runtime>97</beq_runtime>
     <beq_collection id="97237">Faces of Death Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
