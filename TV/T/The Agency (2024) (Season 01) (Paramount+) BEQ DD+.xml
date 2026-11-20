@@ -1414,4 +1414,34 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Agency: Central Intelligence</beq_title><beq_alt_title /><beq_sortTitle>agency: central intelligence</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Agency/The%20Agency%20S01E01-10%20%20(2024)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Agency/The%20Agency%20S01E01-10%20%20(2024)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Covert CIA agent Martian is ordered to abandon his undercover life and return to London Station. When the love he left behind unexpectedly reappears, their romance reignites, pitting his career, his real identity and his mission against his heart while hurling them both into a deadly game of international intrigue and espionage.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>Mikejl</beq_author><beq_avs /><beq_theMovieDB>219971</beq_theMovieDB><beq_poster>/jtzUrOzxY0iRnPJ2qZ6VmVC1Hfl.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="9648">Mystery</genre></beq_genres></beq_metadata></setting>
+  <beq_metadata>
+    <beq_title>The Agency</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>agency</beq_sortTitle>
+    <beq_year>2024</beq_year>
+    <beq_spectrumURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Agency/The%20Agency%20S01E01-10%20%20(2024)%20DD%2B%205.1hm.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Agency/The%20Agency%20S01E01-10%20%20(2024)%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season>01</beq_season>
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>English</beq_language>
+    <beq_source>Paramount+</beq_source>
+    <beq_overview>Covert CIA agent Martian is ordered to abandon his undercover life and return to London Station. When the love he left behind unexpectedly reappears, their romance reignites, pitting his career, his real identity and his mission against his heart while hurling them both into a deadly game of international intrigue and espionage.</beq_overview>
+    <beq_rating>TV-MA</beq_rating>
+    <beq_author>Mikejl</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>219971</beq_theMovieDB>
+    <beq_poster>/zoLZbm5gtTQurjMxp5VOdHIpMmz.jpg</beq_poster>
+    <beq_runtime />
+    <beq_collection />
+    <beq_audioTypes>
+      <audioType>DD+</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="18">Drama</genre>
+      <genre id="9648">Mystery</genre>
+    </beq_genres>
+  </beq_metadata>
+</setting>
