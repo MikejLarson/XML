@@ -1428,17 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
-    <beq_rating />
+    <beq_overview>When a mysterious caller plants a bomb under his car seat, a bank executive begins a high-speed chase across the city to complete a specific series of tasks — all with his kids trapped in the back seat.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>Mikejl</beq_author>
     <beq_avs />
     <beq_theMovieDB>762430</beq_theMovieDB>
-    <beq_poster />
-    <beq_runtime />
+    <beq_poster>/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg</beq_poster>
+    <beq_runtime>91</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>Atmos</audioType>
     </beq_audioTypes>
-    <beq_genres />
+    <beq_genres>
+      <genre id="53">Thriller</genre>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
